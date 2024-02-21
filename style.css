@@ -1,0 +1,25 @@
+body {
+   background-color: black;
+   color: white;
+   font-family: verdade;
+   width: 80%;
+   margin: auto;
+}
+
+* {
+   font-family: "Tahoma";
+}
+
+.cabecalho {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: spacebetween;
+}
+
+.cabecalho>div {
+    width:50%;
+}
+
+a {   
+ color: white;   
+}
